@@ -1,4 +1,0 @@
-function test8(x0) {
-var x1 = Object.keys(x0).length;
-return x1
-}

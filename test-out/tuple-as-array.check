@@ -1,4 +1,0 @@
-function main(x0) {
-var x1 = [1,"2",true];
-return x1
-}

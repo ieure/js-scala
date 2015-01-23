@@ -1,4 +1,0 @@
-function Prepend(x0) {
-var x1 = [42].concat(x0);
-return x1
-}

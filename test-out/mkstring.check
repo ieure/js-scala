@@ -1,4 +1,0 @@
-function MkString(x0) {
-var x1 = x0.join('');
-return x1
-}

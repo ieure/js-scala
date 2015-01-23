@@ -1,4 +1,0 @@
-function main(x0, x1) {
-var x2 = x0 + x1;
-return x2
-}

@@ -1,5 +1,0 @@
-function test(x0) {
-var x1 = {'name' : x0};
-var x2 = x1.name;
-return x2
-}
